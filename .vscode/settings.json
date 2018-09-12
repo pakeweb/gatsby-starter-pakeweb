@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "javascript.format.enable": false,
+  "json.format.enable": false,
+  "prettier.stylelintIntegration": true,
+  "stylint.enable": false,
+  "editor.tabSize": 2
+}
