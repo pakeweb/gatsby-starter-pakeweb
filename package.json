@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-starter-pakeweb",
+  "description": "Gatsby Pake Web starter",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Eko Eryanto <ekoeryanto@gmail.com>",
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/pakeweb/gatsby-starter-pakeweb"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
